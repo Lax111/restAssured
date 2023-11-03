@@ -1,4 +1,4 @@
-package day1api;
+package restapi;
 
 import org.testng.annotations.Test;
 
